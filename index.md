@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This site is used to store all of my Cybersecurity projects, describe each of them, and what I learned from the project. This will be updated periodically as I begin new projects, reach milestones in current projects, or reach what I consider to be completion on current projects. Projects are added to the lists below based on when these different timepoints are reached. It should be noted that this does not include projects that I complete as part of my current role as a Network Administrator but rather are done on my own time with the goal of learning outside of my current job requirements to improve my skills in the field of Cybersecurity. 
+This page is used to store my portfolio of Cybersecurity projects, describe each of them, and what I learned from the project. This will be updated periodically as I begin new projects, reach milestones in current projects, or reach what I consider to be completion on current projects. Projects are added to the lists below based on when these different timepoints are reached. It should be noted that this does not include projects that I complete as part of my current role as a Network Administrator but rather are done on my own time with the goal of learning outside of my current job requirements to improve my skills in the field of Cybersecurity. 
 
 * * *
 
