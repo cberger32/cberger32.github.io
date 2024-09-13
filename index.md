@@ -19,7 +19,7 @@ This site is used to store all of my Cybersecurity projects, describe each of th
 ## Description of Projects
 
 ### Software Development Security Policy
-* This policy was completed as part of a project for a Secure Coding course that I completed in my coursework with SNHU. This project included both the written policy and a presentation on the policy to describe it to a diverse audience. This policy included describing 10 core security principles for secure coding, determining 10 secure coding standards that should be prioritized, policies for encryption and the Triple A framework (Authentication, Authorization, and Accounting), and a risk assessment on each coding standard. The full write up for this project can be found here: https://github.com/cberger32/SNHU-CS405
+* This policy was completed as part of a project for a Secure Coding course that I completed in my coursework with SNHU. This project included both the written policy and a presentation on the policy to describe it to a diverse audience. This policy included describing 10 core security principles for secure coding, determining 10 secure coding standards that should be prioritized, policies for encryption and the Triple A framework (Authentication, Authorization, and Accounting), and a risk assessment on each coding standard. The full write up for this project can be found here: [https://github.com/cberger32/SNHU-CS405](https://github.com/cberger32/SNHU-CS405)
 
 ### Reverse Engineering for Vulnerabilities
 * This was completed as part of a project for a Reverse Engineering course that I completed in my coursework with SNHU. 
